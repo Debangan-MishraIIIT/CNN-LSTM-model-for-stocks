@@ -1,2 +1,2 @@
 # CNN-LSTM-model-for-stocks
-The following notebook is the implementation of the paper ["A CNN-LSTM-Based Model to Forecast Stock Prices"](https://www.hindawi.com/journals/complexity/2020/6622927/) which utilises a combination of convolutional neural networks and LSTM networks to make predictions regarding stock prices of the Shanghai Composite Index. 
+The following notebook is the implementation of the paper ["A CNN-LSTM-Based Model to Forecast Stock Prices"](https://www.hindawi.com/journals/complexity/2020/6622927/) by Wenjie Lu, Jiazheng Li, Yifan Li, Aijun Sun and Jingyang Wang which utilises a combination of convolutional neural networks and LSTM networks to make predictions regarding stock prices of the Shanghai Composite Index. 
